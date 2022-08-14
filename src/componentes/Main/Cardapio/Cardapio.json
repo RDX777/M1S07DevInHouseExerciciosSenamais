@@ -1,5 +1,28 @@
 {
-  "entrada" : [
+  "Entrada" : [
+    {
+      "imagem": "/cardapio/entrada/champignondavila.png",
+      "nome": "Champignon D'Ávila",
+      "descricao":"Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
+      "valor": 65,
+      "tempoPreparo": 10
+    },
+    {
+      "imagem": "/cardapio/entrada/brandadedebacalhau.png",
+      "nome": "Brandade de Bacalhau",
+      "descricao":"Aveludada brandade de bacalhau servida em crocante de sementes, delicada base de azeite de rúcula e suas folhas com farofinha de azeitonas.",
+      "valor": 65,
+      "tempoPreparo": 23
+    },
+    {
+      "imagem": "/cardapio/entrada/figosdamontanha.png",
+      "nome": "Figos da montanha",
+      "descricao":"Figos naturais recheados com queijo de cabra e presunto parma, gratinados com queijo parmesão. Acompanha salada verde.",
+      "valor": 55,
+      "tempoPreparo": 3
+    }
+  ],
+  "Saladas" : [
     {
       "imagem": "/cardapio/entrada/saladadejacare.png",
       "nome": "Salada de Jacaré",
@@ -8,11 +31,39 @@
       "tempoPreparo": 50
     },
     {
-      "imagem": "/cardapio/entrada/champignondavila.png",
-      "nome": "Champignon D'Ávila",
-      "descricao":"Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
+      "imagem": "/cardapio/entrada/saladadefaisao.png",
+      "nome": "Salada de faisão",
+      "descricao":"Mix de folhas, muzzarela de búfala e tomates secos com pequenos pedaços de faisão grelhados ao vinagrete.",
       "valor": 65,
-      "tempoPreparo": 10
+      "tempoPreparo": 15
+    }
+  ],
+  "Pratos Principais" : [
+    {
+      "imagem": "/cardapio/pratosprincipais/filetapera.png",
+      "nome": "Filé Tapera",
+      "descricao":"Medalhão de filé mignon acompanhado de massa farfalle ao molho de queijos.",
+      "valor": 142,
+      "tempoPreparo": 50
+    }
+  ],
+  "Sobremesas" : [
+    {
+      "imagem": "/cardapio/sobremesa/doce1.png",
+      "nome": "Vulcan de dulce de leche",
+      "descricao":"Petit gateau de doce de leite uruguaio com sorvete caseiro de queijo.",
+      "valor": 49,
+      "tempoPreparo": 120
+    }
+
+  ],
+  "Bebidas" : [
+    {
+      "imagem": "/cardapio/bebidas/vinho1.webp",
+      "nome": "Faccin Vinho Laranja - Riesling Itálico",
+      "descricao":"Vinho fino branco seco frutado e harmonioso, que traduz toda a mineralidade do nosso solo. Eleito o Melhor Riesling Itálico do Brasil, pelo Wines of Brasil Awards 2019, este varietal.",
+      "valor": 123,
+      "tempoPreparo": 0
     }
   ]
 }

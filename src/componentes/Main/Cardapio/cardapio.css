@@ -1,5 +1,5 @@
 .div-cardapio {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: left;
 }

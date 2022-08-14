@@ -12,3 +12,4 @@
 - [x] Footer
 - [x] Main
 - [x] Cards
+- [x] Componente de sessao de produtos
