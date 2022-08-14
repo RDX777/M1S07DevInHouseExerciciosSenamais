@@ -10,4 +10,5 @@
 
 - [x] Header
 - [x] Footer
-- [ ] Main
+- [x] Main
+- [x] Cards
