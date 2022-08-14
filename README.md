@@ -3,7 +3,7 @@
 ## Cardápio online do restaurante.
 
 <h4 align="center"> 
-	🚀 ... Concluido ... 🚀
+	🚀 ... Em desenvolvimento ... 🚀
 </h4>
 
 ### HTML
