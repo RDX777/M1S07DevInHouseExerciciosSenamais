@@ -1,0 +1,18 @@
+{
+  "entrada" : [
+    {
+      "imagem": "/cardapio/entrada/saladadejacare.png",
+      "nome": "Salada de Jacaré",
+      "descricao":"Mix de folhas coloridas, tomate cereja,croutôns, palmito e lascas de jacaré salteadas, regadas ao molho balsâmico, oliva e mel.",
+      "valor": 49,
+      "tempoPreparo": 50
+    },
+    {
+      "imagem": "/cardapio/entrada/champignondavila.png",
+      "nome": "Champignon D'Ávila",
+      "descricao":"Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
+      "valor": 65,
+      "tempoPreparo": 10
+    }
+  ]
+}

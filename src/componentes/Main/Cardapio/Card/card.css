@@ -1,0 +1,17 @@
+.card {
+  display: block;
+  width: 400px;
+  height: 500px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 1em;
+  background-color: var( --cor-card);
+
+  transition: 0.3s;
+}
+
+img {
+  width: inherit;
+  height: 250px;
+}
