@@ -1,12 +1,15 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
 import './App.css'
+import { Header } from "./componentes/Header/Header.jsx"
+// import { Main } from "./componentes/Main/Main.jsx"
+import { Footer } from "./componentes/Footer/Footer.jsx"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <h1>Food in house of devs</h1>
+    <div className='container'>
+      <Header />
+      <Footer />
+    </div>
   )
 }
 

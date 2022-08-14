@@ -1,0 +1,37 @@
+.header {
+  background-color: var(--cor-header);
+  padding: 20px;
+  margin: 0px;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-imagem {
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+}
+
+.nav-cardapio {
+  position: fixed;
+  right: 50px;
+  cursor: pointer;
+}
+
+.nav-cardapio ul {
+  list-style: none;
+  visibility: hidden;
+}
+
+.nav-cardapio:hover ul {
+  visibility: visible;
+  background-color: var(--cor-header);
+  padding: 0;
+  border-end-end-radius: 1em;
+  box-shadow: 10px 5px 5px black;
+}
+
+  
