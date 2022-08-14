@@ -5,37 +5,82 @@
       "nome": "Champignon D'Ávila",
       "descricao":"Champignon fresco gigante produzidos na Linha Ávila no interior de Gramado, recheado com creme de javali, gratinado com queijo parmesão.",
       "valor": 65,
-      "tempoPreparo": 10
+      "tempoPreparo": 10,
+      "subsecao" : "Frio"
     },
     {
       "imagem": "/cardapio/entrada/brandadedebacalhau.png",
       "nome": "Brandade de Bacalhau",
       "descricao":"Aveludada brandade de bacalhau servida em crocante de sementes, delicada base de azeite de rúcula e suas folhas com farofinha de azeitonas.",
       "valor": 65,
-      "tempoPreparo": 23
+      "tempoPreparo": 23,
+      "subsecao" : "Frio"
     },
     {
       "imagem": "/cardapio/entrada/figosdamontanha.png",
       "nome": "Figos da montanha",
       "descricao":"Figos naturais recheados com queijo de cabra e presunto parma, gratinados com queijo parmesão. Acompanha salada verde.",
       "valor": 55,
-      "tempoPreparo": 3
+      "tempoPreparo": 3,
+      "subsecao" : "Frio"
+    },
+    {
+      "imagem": "/cardapio/entrada/couvertregional.png",
+      "nome": "Couvert Regional",
+      "descricao":"Seleção de pães, manteigas aromatizadas, queijo sansoe, patê de fígado, cogumelos regionais à provençal e alho assado.",
+      "valor": 43,
+      "tempoPreparo": 85,
+      "subsecao" : "Frio"
+    },
+    {
+      "imagem": "/cardapio/entrada/sopagratinadacebola.png",
+      "nome": "Sopa gratinada de Cebola",
+      "descricao":"Tradicional sopa de cebola à francesa gratinada com pão e queijo gruyerè.",
+      "valor": 64,
+      "tempoPreparo": 5,
+      "subsecao" : "Morno"
     }
   ],
   "Saladas" : [
     {
-      "imagem": "/cardapio/entrada/saladadejacare.png",
+      "imagem": "/cardapio/saladas/saladadejacare.png",
       "nome": "Salada de Jacaré",
       "descricao":"Mix de folhas coloridas, tomate cereja,croutôns, palmito e lascas de jacaré salteadas, regadas ao molho balsâmico, oliva e mel.",
       "valor": 49,
-      "tempoPreparo": 50
+      "tempoPreparo": 50,
+      "subsecao" : "Cru"
     },
     {
-      "imagem": "/cardapio/entrada/saladadefaisao.png",
+      "imagem": "/cardapio/saladas/saladadefaisao.png",
       "nome": "Salada de faisão",
       "descricao":"Mix de folhas, muzzarela de búfala e tomates secos com pequenos pedaços de faisão grelhados ao vinagrete.",
       "valor": 65,
-      "tempoPreparo": 15
+      "tempoPreparo": 15,
+      "subsecao" : "Cru"
+    },
+    {
+      "imagem": "/cardapio/saladas/alfacepuro.jpg",
+      "nome": "Salada de alface",
+      "descricao":"Apenas Aface",
+      "valor": 55,
+      "tempoPreparo": 15,
+      "subsecao" : "Cru"
+    },
+    {
+      "imagem": "/cardapio/saladas/alfacetomatecebola.jpg",
+      "nome": "Salada de alface requentado chiqueeê",
+      "descricao":"Aface com tomate e cebola",
+      "valor": 85,
+      "tempoPreparo": 35,
+      "subsecao" : "Cru"
+    },
+    {
+      "imagem": "/cardapio/saladas/saladadepobre.jpg",
+      "nome": "Salada de pobre",
+      "descricao":"Mix de um monte de coisa ja feita e reusada",
+      "valor": 85,
+      "tempoPreparo": 35,
+      "subsecao" : "Cru"
     }
   ],
   "Pratos Principais" : [
@@ -44,7 +89,40 @@
       "nome": "Filé Tapera",
       "descricao":"Medalhão de filé mignon acompanhado de massa farfalle ao molho de queijos.",
       "valor": 142,
-      "tempoPreparo": 50
+      "tempoPreparo": 50,
+      "subsecao" : "Carne"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao.png",
+      "nome": "Carne suina frita",
+      "descricao":"Carne frita suina dos alpes congelados da Sudania",
+      "valor": 1420,
+      "tempoPreparo": 50,
+      "subsecao" : "Carne"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao2.jpg",
+      "nome": "Filé de flango",
+      "descricao":"Sem galantia ou blinde",
+      "valor": 12,
+      "tempoPreparo": 60,
+      "subsecao" : "Frango"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao3.jpg",
+      "nome": "Padrão brasileiro",
+      "descricao":"Somente arroz e feijão, carne não inclusa",
+      "valor": 800,
+      "tempoPreparo": 5,
+      "subsecao" : "Vejetariano"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/festa.jpg",
+      "nome": "Festão brasileiro",
+      "descricao":"Pra familia toda",
+      "valor": 2800,
+      "tempoPreparo": 5,
+      "subsecao" : "Variado"
     }
   ],
   "Sobremesas" : [
@@ -53,7 +131,40 @@
       "nome": "Vulcan de dulce de leche",
       "descricao":"Petit gateau de doce de leite uruguaio com sorvete caseiro de queijo.",
       "valor": 49,
-      "tempoPreparo": 120
+      "tempoPreparo": 120,
+      "subsecao" : "Doce"
+    },
+    {
+      "imagem": "/cardapio/sobremesa/gelatina.webp",
+      "nome": "Engana Engana de gelatina",
+      "descricao":"Parece chocolate, mas é gelatina",
+      "valor": 49,
+      "tempoPreparo": 120,
+      "subsecao" : "Doce"
+    },
+    {
+      "imagem": "/cardapio/sobremesa/pudim.jpg",
+      "nome": "Pudim",
+      "descricao":"Pudim de doce de leite condensado com pão de padaria",
+      "valor": 490,
+      "tempoPreparo": 20,
+      "subsecao" : "Doce"
+    },
+    {
+      "imagem": "/cardapio/sobremesa/torta2.png",
+      "nome": "Torta",
+      "descricao":"Doce torto com o nome diz",
+      "valor": 49,
+      "tempoPreparo": 120,
+      "subsecao" : "Doce"
+    },
+    {
+      "imagem": "/cardapio/sobremesa/doce1.png",
+      "nome": "Vulcan de dulce de leche",
+      "descricao":"Petit gateau de doce de leite uruguaio com sorvete caseiro de queijo.",
+      "valor": 49,
+      "tempoPreparo": 120,
+      "subsecao" : "Doce"
     }
 
   ],
@@ -63,7 +174,40 @@
       "nome": "Faccin Vinho Laranja - Riesling Itálico",
       "descricao":"Vinho fino branco seco frutado e harmonioso, que traduz toda a mineralidade do nosso solo. Eleito o Melhor Riesling Itálico do Brasil, pelo Wines of Brasil Awards 2019, este varietal.",
       "valor": 123,
-      "tempoPreparo": 0
+      "tempoPreparo": 0,
+      "subsecao" : "Vinho"
+    },
+    {
+      "imagem": "/cardapio/bebidas/b1.jpg",
+      "nome": "Campari",
+      "descricao":"Aguardente rosada extraida dos vales quentes de saturno.",
+      "valor": 156,
+      "tempoPreparo": 0,
+      "subsecao" : "Cachaça"
+    },
+    {
+      "imagem": "/cardapio/bebidas/b2.png",
+      "nome": "Leche Loco",
+      "descricao":"Leche alcoolico",
+      "valor": 156,
+      "tempoPreparo": 0,
+      "subsecao" : "Cachaça"
+    },
+    {
+      "imagem": "/cardapio/bebidas/b3.webp",
+      "nome": "Leche Loco achocolatado",
+      "descricao":"Leche com chocolate",
+      "valor": 156,
+      "tempoPreparo": 0,
+      "subsecao" : "Cachaça"
+    },
+    {
+      "imagem": "/cardapio/bebidas/b4.webp",
+      "nome": "Leche Loco achocolatado",
+      "descricao":"Leche com chocolate",
+      "valor": 156,
+      "tempoPreparo": 0,
+      "subsecao" : "Cachaça"
     }
   ]
 }
