@@ -90,7 +90,7 @@
       "descricao":"Medalhão de filé mignon acompanhado de massa farfalle ao molho de queijos.",
       "valor": 142,
       "tempoPreparo": 50,
-      "subsecao" : "Carne"
+      "subsecao" : "Carnes vermelhas"
     },
     {
       "imagem": "/cardapio/pratosprincipais/pratopadrao.png",
@@ -98,7 +98,15 @@
       "descricao":"Carne frita suina dos alpes congelados da Sudania",
       "valor": 1420,
       "tempoPreparo": 50,
-      "subsecao" : "Carne"
+      "subsecao" : "Carnes vermelhas"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao.png",
+      "nome": "Carne de coelho frita",
+      "descricao":"Carne frita de coelho dos das profundezas do artico polo norte",
+      "valor": 1420,
+      "tempoPreparo": 50,
+      "subsecao" : "Carnes vermelhas"
     },
     {
       "imagem": "/cardapio/pratosprincipais/pratopadrao2.jpg",
@@ -106,7 +114,23 @@
       "descricao":"Sem galantia ou blinde",
       "valor": 12,
       "tempoPreparo": 60,
-      "subsecao" : "Frango"
+      "subsecao" : "Aves"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao2.jpg",
+      "nome": "Filé de pombo",
+      "descricao":"Provem dos mais altos predios urbanos.",
+      "valor": 12,
+      "tempoPreparo": 60,
+      "subsecao" : "Aves"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao2.jpg",
+      "nome": "Cozido de Urubu",
+      "descricao":"Já vem defumado e provem das ilhas maldivas de marte",
+      "valor": 12,
+      "tempoPreparo": 60,
+      "subsecao" : "Aves"
     },
     {
       "imagem": "/cardapio/pratosprincipais/pratopadrao3.jpg",
@@ -114,7 +138,15 @@
       "descricao":"Somente arroz e feijão, carne não inclusa",
       "valor": 800,
       "tempoPreparo": 5,
-      "subsecao" : "Vejetariano"
+      "subsecao" : "Risotos"
+    },
+    {
+      "imagem": "/cardapio/pratosprincipais/pratopadrao3.jpg",
+      "nome": "Risoto de feijão roxo",
+      "descricao":"Este prato não tras nada de especial somente o preço exorbitante.",
+      "valor": 800,
+      "tempoPreparo": 5,
+      "subsecao" : "Risotos"
     },
     {
       "imagem": "/cardapio/pratosprincipais/festa.jpg",
@@ -122,7 +154,7 @@
       "descricao":"Pra familia toda",
       "valor": 2800,
       "tempoPreparo": 5,
-      "subsecao" : "Variado"
+      "subsecao" : "Massas"
     }
   ],
   "Sobremesas" : [
@@ -175,7 +207,7 @@
       "descricao":"Vinho fino branco seco frutado e harmonioso, que traduz toda a mineralidade do nosso solo. Eleito o Melhor Riesling Itálico do Brasil, pelo Wines of Brasil Awards 2019, este varietal.",
       "valor": 123,
       "tempoPreparo": 0,
-      "subsecao" : "Vinho"
+      "subsecao" : "Vinhos"
     },
     {
       "imagem": "/cardapio/bebidas/b1.jpg",
@@ -183,7 +215,7 @@
       "descricao":"Aguardente rosada extraida dos vales quentes de saturno.",
       "valor": 156,
       "tempoPreparo": 0,
-      "subsecao" : "Cachaça"
+      "subsecao" : "Drinks"
     },
     {
       "imagem": "/cardapio/bebidas/b2.png",
@@ -191,7 +223,7 @@
       "descricao":"Leche alcoolico",
       "valor": 156,
       "tempoPreparo": 0,
-      "subsecao" : "Cachaça"
+      "subsecao" : "Cervejas"
     },
     {
       "imagem": "/cardapio/bebidas/b3.webp",
@@ -199,7 +231,7 @@
       "descricao":"Leche com chocolate",
       "valor": 156,
       "tempoPreparo": 0,
-      "subsecao" : "Cachaça"
+      "subsecao" : "Drinks"
     },
     {
       "imagem": "/cardapio/bebidas/b4.webp",
@@ -207,7 +239,15 @@
       "descricao":"Leche com chocolate",
       "valor": 156,
       "tempoPreparo": 0,
-      "subsecao" : "Cachaça"
+      "subsecao" : "Sem àlcool"
+    },
+    {
+      "imagem": "/cardapio/bebidas/b4.webp",
+      "nome": "Coco de macaco",
+      "descricao":"Especiaria rara servida em mercurio, cujo os habitantes tomam em suas tavernas de gelo.",
+      "valor": 156,
+      "tempoPreparo": 0,
+      "subsecao" : "Sem àlcool"
     }
   ]
 }
