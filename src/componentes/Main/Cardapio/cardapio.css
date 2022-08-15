@@ -3,3 +3,12 @@
   flex-wrap: wrap;
   justify-content: left;
 }
+
+h2 {
+  border-bottom: 2px solid;
+}
+
+h3 {
+  border-bottom: 1px dashed;
+  margin-left: 20px;
+}
